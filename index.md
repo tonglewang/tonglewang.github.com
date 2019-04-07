@@ -1,40 +1,25 @@
 
 ## Welcome to tonglewang's GitHub Pages
 Wang Tongle is a graduate student in East China Normal University. His research interests are in image quality assessment, deep learning and computer vision.His original homepage address is at [https://blog.csdn.net/ecnu18918079120](https://blog.csdn.net/ecnu18918079120
+
 ### It's Me
 <img src="/itsme.jpg"  height="71" width="53">
-### Work Experience
 
+### Work Experience
 2012-2016 Undergraduate, School of Mathematics and Computer Science, **Fuzhou University**
 
 2016-2019 Graduate School of Computer Science and Software Engineering, **East China Normal University**
 
-2019~     In July 2019, he will join the Ping An Technology Shanghai Branch as a software engineer.
+2019~     In July 2019, he will join the Ping An Technology Shanghai Branch as a software engineer
 
-```markdown
-Syntax highlighted code block
+### Publications
+T.L.Wang,C Wang Multiply distorted image quality evaluation algorithm based on probability matrix decomposition,Computer applications and software
+Wang Ci, Chang Yanjie, Wang Tongle. An image quality semi-reference evaluation method for surveillance video applications
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonglewang/tonglewang.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Skills
+Often use java and python programming
+Familiar with image processing, deep learning knowledge
+Good at cutting-edge technologies such as opencv and spark big data
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions about my CSDN blog and github, please contact me at the email address:51164500029@stu.ecnu.edu.cn
