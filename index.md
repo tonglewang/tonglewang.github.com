@@ -2,7 +2,7 @@
 ## Welcome to tonglewang's GitHub Pages
 Wang Tongle is a graduate student in East China Normal University. His research interests are in image quality assessment, deep learning and computer vision.His original homepage address is at [https://blog.csdn.net/ecnu18918079120](https://blog.csdn.net/ecnu18918079120
 ### It's Me
-![haha](/itsme.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/53)
+<img src="/itsme.jpg"  height="53" width="71">
 ### Work Experience
 
 2012-2016 Undergraduate, School of Mathematics and Computer Science, **Fuzhou University**
