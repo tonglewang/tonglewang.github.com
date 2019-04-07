@@ -1,8 +1,12 @@
 ## Welcome to Tonglewang's GitHub Pages
-Wang Tongle is a graduate student in East China Normal University. His research interests are in image quality assessment, deep learning and computer vision.His original homepage address is at https://blog.csdn.net/ecnu18918079120
-### Markdown
+Wang Tongle is a graduate student in East China Normal University. His research interests are in image quality assessment, deep learning and computer vision.His original homepage address is at [Link](https://blog.csdn.net/ecnu18918079120)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work Experience
+2012-2016 Undergraduate, School of Mathematics and Computer Science, Fuzhou University
+
+2016-2019 Graduate School of Computer Science and Software Engineering, East China Normal University
+
+2019~     In July 2019, he will join the Ping An Technology Shanghai Branch as a software engineer.
 
 ```markdown
 Syntax highlighted code block
