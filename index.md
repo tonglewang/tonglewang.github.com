@@ -1,4 +1,4 @@
-![It's Me](/me.jpg)
+![It's Me](/profile.jpg)
 ## Welcome to tonglewang's GitHub Pages
 Wang Tongle is a graduate student in East China Normal University. His research interests are in image quality assessment, deep learning and computer vision.His original homepage address is at [https://blog.csdn.net/ecnu18918079120](https://blog.csdn.net/ecnu18918079120
 ### Work Experience
