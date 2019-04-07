@@ -21,4 +21,5 @@ Tongle Wang is a graduate student in East China Normal University. He is interes
 Often use java and python programming.Familiar with image processing, deep learning knowledge.Good at cutting-edge technologies such as opencv and spark big data
 
 ### Support or Contact
-If you have any questions about my CSDN blog and github, please contact me at the email address:51164500029@stu.ecnu.edu.cn
+If you have any questions about my CSDN blog and github, please drop me with following email:
+51164500029@stu.ecnu.edu.cn
