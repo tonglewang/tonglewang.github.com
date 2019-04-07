@@ -14,6 +14,7 @@ Tongle Wang is a graduate student in East China Normal University. He is interes
 
 ### Publications
 1、T.L.Wang,C Wang Multiply distorted image quality evaluation algorithm based on probability matrix decomposition,Computer applications and software
+
 2、Wang Ci, Chang Yanjie, Wang Tongle. An image quality semi-reference evaluation method for surveillance video applications
 
 ### Skills
