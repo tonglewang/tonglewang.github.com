@@ -1,9 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tonglewang/tonglewang.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to Tonglewang's GitHub Pages
+Wang Tongle is a graduate student in East China Normal University. His research interests are in image quality assessment, deep learning and computer vision.His original homepage address is at https://blog.csdn.net/ecnu18918079120
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
