@@ -14,6 +14,7 @@ Tongle Wang is a graduate student in East China Normal University. He is interes
 
 ### Intern Experience
 2017.07-2017.09: data analyst, Habu Data Shanghai Technology Co., Ltd.
+
 2018.06-2017.09: big data engineer at TouchPal Technology Co., Ltd.
 
 ### Project Experience
