@@ -1,7 +1,7 @@
 ## Welcome to tonglewang's GitHub Pages
 <script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
 <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-<font color="Hotpink">你是我的第</font><span data-hk-page="current">-</span><font color="Hotpink">个浏览者</font>
+<nobr><font color="Hotpink">你是我的第</font><span data-hk-page="current">-</span><font color="Hotpink">个浏览者</font></nobr><br>
 Tongle Wang is a graduate student in East China Normal University. He is interested in image quality assessment, deep learning and computer vision.His CSDN homepage is [https://blog.csdn.net/ecnu18918079120](https://blog.csdn.net/ecnu18918079120)
 
 ### It's Me
