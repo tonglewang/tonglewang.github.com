@@ -6,20 +6,29 @@ Tongle Wang is a graduate student in East China Normal University. He is interes
 <img src="/itsme.jpg"  height="71" width="53">
 
 ### Work Experience
-2012-2016 Undergraduate, School of Mathematics and Computer Science, **Fuzhou University**
+2012-2016: Undergraduate, School of Mathematics and Computer Science, **Fuzhou University**
 
-2016-2019 Graduate School of Computer Science and Software Engineering, **East China Normal University**
+2016-2019: Graduate, School of Computer Science and Software Engineering, **East China Normal University**
 
-2019~     In July 2019, he will join the Ping An Technology Shanghai Branch as a software engineer
+2019~    : In July 2019, he will join the Ping An Technology Shanghai Branch as a software engineer
+
+### Intern Experience
+2017.07-2017.09: data analyst, Habu Data Shanghai Technology Co., Ltd.
+2018.06-2017.09: big data engineer at TouchPal Technology Co., Ltd.
+
+### Project Experience
+2017.10-2018.06: Image algorithm engineer, Image comparison system based on security monitoring.**Military project**
 
 ### Publications
 1、T.L.Wang,C Wang Multiply distorted image quality evaluation algorithm based on probability matrix decomposition,Computer applications and software
 
 2、Wang Ci, Chang Yanjie, Wang Tongle. An image quality semi-reference evaluation method for surveillance video applications
 
+3、Responsible for the chapters 3, 4, and 9 of the a book named Embedded System Principles and Practice
+
 ### Skills
-Often use java and python programming.Familiar with image processing, deep learning knowledge.Good at cutting-edge technologies such as opencv and spark big data
+Often use java and python programming.Familiar with image processing, deep learning knowledge.Good at technologies such as opencv and spark big data
 
 ### Support or Contact
-If you have any questions about my CSDN blog and github, please drop me with following email:
+If you have any questions about my CSDN and github, please drop me with following email:
 51164500029@stu.ecnu.edu.cn
