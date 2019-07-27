@@ -29,6 +29,8 @@ Tongle Wang is a graduate student in East China Normal University. He is interes
 
 3、Responsible for the chapters 3, 4, and 9 of the a book named Embedded System Principles and Practice
 
+### Software
+The code for article ["A opinion-unaware blind quality assessment algorithm for multiply distorted images" (https://github.com/tonglewang/Electronics-Letters_code) can be downloaded here.
 ### Skills
 Often use java and python programming.Familiar with image processing, deep learning knowledge.Good at technologies such as opencv and spark big data
 
