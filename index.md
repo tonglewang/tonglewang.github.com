@@ -1,12 +1,12 @@
 ## Welcome to tonglewang's GitHub Pages
-<img src="/itsme.jpg" align='left'  height="150" width="120">Welcome to my personal homepage. My name is Tongle Wang (王同乐) and I am a post-90s youth. I have obtained my master's degree and bachelor's degree from East China Normal University and Fuzhou University. At present, I am a software engineer in the Ping An Technology Intelligent Investment Research Department of China Ping An Group. I am interested in image processing, especially image quality assessment. Certainly, I also like to study deep learning knowledge for computer vision tasks. If you want to know more about my status, you can follow my CSDN homepage.His CSDN homepage[https://blog.csdn.net/ecnu18918079120](https://blog.csdn.net/ecnu18918079120).
+<img src="/itsme.jpg" align='left'  height="140" width="120">Welcome to my personal homepage. My name is Tongle Wang (王同乐) and I am a post-90s youth. I have obtained my master's degree and bachelor's degree from East China Normal University and Fuzhou University. At present, I am a software engineer in the Ping An Technology Intelligent Investment Research Department of China Ping An Group. I am interested in image processing, especially image quality assessment. Certainly, I also like to study deep learning knowledge for computer vision tasks. If you want to know more about my status, you can follow my CSDN homepage.His CSDN homepage[https://blog.csdn.net/ecnu18918079120](https://blog.csdn.net/ecnu18918079120).
 
 ### Education  Experience
-2012-2016: Undergraduate, School of Mathematics and Computer Science, **Fuzhou University**
+2012-2016: Undergraduate, School of Mathematics and Computer Science, **Fuzhou University**  
 2016-2019: Graduate, School of Computer Science and Software Engineering, **East China Normal University**
 ###  Work Experience
-2017.07-2017.09: data analyst, Habu Data Shanghai Technology Co., Ltd.  (Intern)
-2018.06-2017.09: big data engineer at TouchPal Technology Co., Ltd.  (Intern)
+2017.07-2017.09: data analyst, Habu Data Shanghai Technology Co., Ltd.  (Intern)  
+2018.06-2017.09: big data engineer at TouchPal Technology Co., Ltd.  (Intern)  
 2019~    : In July 2019, I will join the Ping An Technology Shanghai Branch as a software engineer
 ### Project Experience
 2017.10-2018.06: Image algorithm engineer, Image comparison system based on security monitoring. (Military project)
