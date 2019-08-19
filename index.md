@@ -20,7 +20,7 @@ The code for article ["An opinion-unaware blind quality assessment algorithm for
 ### Support or Contact
 If you have any questions about my CSDN and github, please drop me with following email:
 51164500029@stu.ecnu.edu.cn
-<img src="/name.png" align='right' height="70" width="250">
+<img src="/name.png" align='right' height="70" width="250">   
 <img src="/stamp.png" align='right' height="50" width="40">
 <script src="https://cdn1.lncld.net/static/js/av-min-1.5.0.js"></script>
 <script src="https://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.3.0.js"></script>
