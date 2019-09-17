@@ -13,7 +13,7 @@
 ### Publications
 *T.L.Wang,C Wang Multiply distorted image quality evaluation algorithm based on probability matrix decomposition,Computer applications and software  
 Wang Ci, Chang Yanjie, Wang Tongle. An image quality semi-reference evaluation method for surveillance video applications   
-T.L Wang, Junchen Deng,Yanjie Chang. An opinion-unaware blind quality assessment algorithm for multiply distorted images (under review)  
+T.L Wang, Junchen Deng. An opinion-unaware blind quality assessment algorithm for multiply distorted images (under review)  
 Responsible for the chapters 3, 4, and 9 of the a book named Embedded System Principles and Practice (book)*
 ### Software
 The code for article ["An opinion-unaware blind quality assessment algorithm for multiply distorted images"](https://github.com/tonglewang/Electronics-Letters_code) can be downloaded here.
